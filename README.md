@@ -1,6 +1,7 @@
-### Hi there 👋
+<!-- ### Hi there 👋
 
-<!--
+A high school student from Beijing, China
+
 **CarlGao4/CarlGao4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
