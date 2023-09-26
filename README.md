@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm a high school student from Beijing, China. My favorite programming language is Python, though I'm also familiar with C, C++, JS (css, HTML, anyway) ... Feel free to discuss them with me :smiley:
+I'm a student from Shanghai Jiao Tong University, China. My favorite programming language is Python, though I'm also familiar with C, C++, JS (css, HTML, anyway) ... Feel free to discuss them with me :smiley:
 
 ## Popular Projects :file_folder:
 
