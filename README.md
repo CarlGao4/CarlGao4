@@ -8,10 +8,6 @@ I'm a student from Shanghai Jiao Tong University, China. My favorite programming
 
 A GUI and CUDA memory optimizing project based on demucs
 
-### [![ClassIn-Mover icon](https://carlgao4.github.io/ClassIn-Mover/ClassIn_Mover_32.png) ClassIn Mover](https://carlgao4.github.io/ClassIn-Mover)
-
-A program to move ClassIn classroom window in order to exit from focused learning mode.
-
 <!--
 **CarlGao4/CarlGao4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
