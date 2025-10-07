@@ -4,7 +4,7 @@ I'm a student from Shanghai Jiao Tong University, China. My favorite programming
 
 ## Popular Projects :file_folder:
 
-### [![Demucs-GUI icon](https://github.com/CarlGao4/Demucs-Gui/blob/main/icon/icon_32x32.png?raw=true) Demucs-GUI](https://carlgao4.github.io/demucs-gui)
+### [![Demucs-GUI icon](https://github.com/CarlGao4/Demucs-Gui/blob/main/icon/icon_32x32.png?raw=true) Demucs-GUI](https://github.com/CarlGao4/Demucs-Gui)
 
 A GUI and CUDA memory optimizing project based on demucs
 
